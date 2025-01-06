@@ -1,5 +1,5 @@
 # Anna Peterson
-Hi! I'm Anna Peterson, a passionate backend software engineer with a knack for building scalable, efficient systems. I specialize in Go and backend development and enjoy collaborating on innovative solutions to backend challenges. I believe in fostering collaborative and inclusive environments. A former team member once said: 'Anna has a unique talent for bringing out the best in her team...' [Read more in Testimonials].
+Hi! I'm Anna Peterson, a passionate backend software engineer with a knack for building scalable, efficient systems. I specialize in Go and backend development and enjoy collaborating on innovative solutions to backend challenges. Solutions oriented ALL DAY. 
 
 In my free time, I like to build simple elegant full stack applications and walk my dog. 
 
