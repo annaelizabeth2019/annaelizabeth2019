@@ -11,7 +11,7 @@ In my free time, I like to build simple elegant full stack applications and walk
 ---
 
 ## 🌟 Notable Projects
-### [shREST](https://github.com/annaelizabeth2019/shREST)
+### [Shrek Quotes REST API](https://github.com/annaelizabeth2019/shREST)
 - **Description**: An educational Shrek-themed REST API with a fun, engaging design and developer-friendly endpoints. Developed for the [public api lists project](https://github.com/public-api-lists/public-api-lists).
 - **Technologies**: TypeScript, Cloudflare Workers, Wrangler
 - **Features**: Endpoints for movie quotes, characters, and interactive features.
