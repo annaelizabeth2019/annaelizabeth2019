@@ -3,7 +3,7 @@ Hi! I'm Anna Peterson, a passionate backend software engineer with a knack for b
 
 In my free time, I like to build simple elegant full stack applications and walk my dog. 
 
-- 🔭 **Current Role**: Backend Software Engineer at [HER](https://weareher.com/) focused on building scalable backend systems for social networking apps.
+- 🔭 **Most Recent Role**: Backend Software Engineer at [HER](https://weareher.com/) focused on building scalable backend systems for social networking apps.
 - 🌎 **Location**: Philadelphia, USA
 - 💼 **Experience**: 5+ years in Go and backend development
 - 💬 **Ask me about**: Backend architecture, Go, and building scalable systems
