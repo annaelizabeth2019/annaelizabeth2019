@@ -11,6 +11,16 @@ In my free time, I like to build simple elegant full stack applications and walk
 ---
 
 ## 🌟 Notable Projects
+### [AI PR review Integration](https://github.com/annaelizabeth2019/code-review-tool)
+- **Description**: A PR review tool that integrates with AI to provide immediate feedback on PR diffs. 
+- **Technologies**: Python, GitHub Actions, OpenAI
+- **Features**:Allows a developer to quickly get feedback from an AI reviewer at the moment a PR is made without any copy or paste necessary!
+ 
+### [TMS Shipments Application](https://github.com/annaelizabeth2019/tms-loads-app)
+- **Description**: An example of a fullstack application that integrates with Turvo and allows a user to view and create shipments and map to an external model.
+- **Technologies**: Golang Backend, React + TypeScript frontend built with Vite and Turvo sandbox.
+- **Features**: Create shipment, view shipments, expanded view for additional details for each shipment.
+
 ### [Shrek Quotes REST API](https://github.com/annaelizabeth2019/shREST)
 - **Description**: An educational Shrek-themed REST API with a fun, engaging design and developer-friendly endpoints. Developed for the [public api lists project](https://github.com/public-api-lists/public-api-lists).
 - **Technologies**: TypeScript, Cloudflare Workers, Wrangler
